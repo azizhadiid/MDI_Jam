@@ -1,0 +1,12 @@
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\bin\Debug\Jam.exe.config
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\bin\Debug\Jam.exe
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\bin\Debug\Jam.pdb
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.csproj.AssemblyReference.cache
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.GUI.Jam_App.resources
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.Properties.Resources.resources
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.csproj.GenerateResource.cache
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.csproj.CoreCompileInputs.cache
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.exe
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.pdb
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.GUI.FormStopWatch.resources
+C:\ADIT\UNJA\PEMVIS\Jam\Jam\obj\Debug\Jam.GUI.FormTimer.resources
